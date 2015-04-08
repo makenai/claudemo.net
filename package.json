@@ -1,0 +1,25 @@
+{
+  "name": "claudemo.net",
+  "version": "1.0.0",
+  "description": "REST API for Impressionist paintings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makenai/claudemo.net.git"
+  },
+  "keywords": [
+    "impressionist",
+    "api"
+  ],
+  "author": "Pawel Szymczykowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makenai/claudemo.net/issues"
+  },
+  "homepage": "https://github.com/makenai/claudemo.net",
+  "devDependencies": {
+  }
+}
